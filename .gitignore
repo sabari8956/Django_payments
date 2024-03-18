@@ -2,3 +2,6 @@
 
 # eviornoment files
 env/
+
+#ingore pyc files
+*.pyc
